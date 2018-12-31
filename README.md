@@ -1,4 +1,4 @@
-[LabelMe](http://labelme.csail.mit.edu) annotation tool source code
+[LabelMe](http://labelme.csail.mit.edu) OBB annotation tool source code
 ===========
 
 Here you will find the source code to install the LabelMe annotation
